@@ -1,2 +1,3 @@
 # ML-Algorithms
-Fist Algorithm: Linear Regression (USA_Housing)
+1. Linear Regression (USA_Housing)
+2. Logistic Regression
