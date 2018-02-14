@@ -6,3 +6,4 @@
 5. SVM - Support Vector Machines (iris)
 6. K- Means
 7. NLP  - Natural Language Processing (YELP reviews classification)
+8. DNN - Deep Neural Network (Contrib.Learn)
